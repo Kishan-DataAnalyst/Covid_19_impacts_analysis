@@ -1,13 +1,14 @@
 # COVID-19 Impact Analysis
 📌 Project Overview
 This project analyzes the impact of COVID-19 across different countries using real-world datasets. The analysis focuses on case trends, mortality rates, government responses, and economic impact. The study is performed using Python in Google Colab for data processing and transformation.
-📊 Dataset Details
+<br> 
+## 📊 Dataset Details
 1️⃣ Raw Data (raw_data.csv)
 Contains the original COVID-19 dataset with unprocessed information.
 Data includes country-level statistics, economic indicators, and government response measures.
 2️⃣ Transformed Data (transformed_data.csv)
 The cleaned and structured dataset used for analysis.
-Columns included:
+### Columns included:
 Country Code → ISO country code
 Country → Name of the country
 Date → Date of recorded data
