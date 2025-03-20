@@ -28,7 +28,8 @@ The cleaned and structured dataset used for analysis.
   
 * Population → Total population of the country
 <br>
-### 3️⃣ Google Colab Notebook (Covid_19_Impacts_Analysis.ipynb)
+
+#### 3️⃣ Google Colab Notebook (Covid_19_Impacts_Analysis.ipynb)
 Data Cleaning → Handles missing values and renames columns for clarity.
 
 Exploratory Data Analysis (EDA) → Identifies trends, patterns, and distributions.
@@ -39,22 +40,31 @@ Visualizations → Uses matplotlib and seaborn for graphical insights.
 
 ### 🔧 Technologies Used
 Python (Pandas, NumPy, Matplotlib, Seaborn)
+
 Google Colab
+
 CSV Data Processing
 <br>
+
 ### 🚀 How to Use
+
 1️⃣ Clone the repository: 
 git clone https://github.com/Kishan-Analyst/Covid_19_Impact_Analysis.git
 cd Covid_19_Impact_Analysis
 
 2️⃣ Open Google Colab and upload the notebook:
+
 Go to Google Colab.
+
 Click File → Upload Notebook and select Covid_19_Impacts_Analysis.ipynb.
 
 3️⃣ Download and upload the datasets in Colab:
+
 Download raw_data.csv and transformed_data.csv from this repository.
+
 In Colab, click Files (📂 icon) → Upload and select both CSV files.
 
 4️⃣ Run the notebook:
+
 Execute the cells one by one to analyze the data.
 
