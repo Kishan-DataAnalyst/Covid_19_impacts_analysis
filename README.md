@@ -10,17 +10,25 @@ Data includes country-level statistics, economic indicators, and government resp
 #### 2️⃣ Transformed Data (transformed_data.csv)
 The cleaned and structured dataset used for analysis.
 ### Columns included:
-Country Code → ISO country code
-Country → Name of the country
-Date → Date of recorded data
-Total Cases → Cumulative COVID-19 cases
-Total Deaths → Cumulative deaths due to COVID-19
-Stringency Index → Government response severity (0 to 100%)
-Human Development Index (HDI) → Country development level
-GDP Per Capita → Economic strength per person
-Population → Total population of the country
+* Country Code → ISO country code
+
+* Country → Name of the country
+
+* Date → Date of recorded data
+
+* Total Cases → Cumulative COVID-19 cases
+  
+* Total Deaths → Cumulative deaths due to COVID-19
+  
+* Stringency Index → Government response severity (0 to 100%)
+  
+* Human Development Index (HDI) → Country development level
+  
+* GDP Per Capita → Economic strength per person
+  
+* Population → Total population of the country
 <br>
-#### 3️⃣ Google Colab Notebook (Covid_19_Impacts_Analysis.ipynb)
+### 3️⃣ Google Colab Notebook (Covid_19_Impacts_Analysis.ipynb)
 Data Cleaning → Handles missing values and renames columns for clarity.
 
 Exploratory Data Analysis (EDA) → Identifies trends, patterns, and distributions.
