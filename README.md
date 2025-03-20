@@ -3,10 +3,11 @@
 This project analyzes the impact of COVID-19 across different countries using real-world datasets. The analysis focuses on case trends, mortality rates, government responses, and economic impact. The study is performed using Python in Google Colab for data processing and transformation.
 <br> 
 ## 📊 Dataset Details
-1️⃣ Raw Data (raw_data.csv)
+#### 1️⃣ Raw Data (raw_data.csv)
 Contains the original COVID-19 dataset with unprocessed information.
-Data includes country-level statistics, economic indicators, and government response measures.
-2️⃣ Transformed Data (transformed_data.csv)
+Data includes country-level statistics, economic indicators, and government response measures.<br>
+
+#### 2️⃣ Transformed Data (transformed_data.csv)
 The cleaned and structured dataset used for analysis.
 ### Columns included:
 Country Code → ISO country code
@@ -18,16 +19,22 @@ Stringency Index → Government response severity (0 to 100%)
 Human Development Index (HDI) → Country development level
 GDP Per Capita → Economic strength per person
 Population → Total population of the country
-3️⃣ Google Colab Notebook (Covid_19_Impacts_Analysis.ipynb)
+<br>
+#### 3️⃣ Google Colab Notebook (Covid_19_Impacts_Analysis.ipynb)
 Data Cleaning → Handles missing values and renames columns for clarity.
+
 Exploratory Data Analysis (EDA) → Identifies trends, patterns, and distributions.
+
 Statistical Insights → Calculates mortality rates and response severity.
+
 Visualizations → Uses matplotlib and seaborn for graphical insights.
-🔧 Technologies Used
+
+### 🔧 Technologies Used
 Python (Pandas, NumPy, Matplotlib, Seaborn)
 Google Colab
 CSV Data Processing
-🚀 How to Use
+<br>
+### 🚀 How to Use
 1️⃣ Clone the repository: 
 git clone https://github.com/Kishan-Analyst/Covid_19_Impact_Analysis.git
 cd Covid_19_Impact_Analysis
