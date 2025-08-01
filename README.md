@@ -1,4 +1,4 @@
-COVID-19 Impact Analysis
+# COVID-19 Impact Analysis
 📌 Project Overview
 This project analyzes the global impact of COVID-19 across different countries using real-world datasets from Kaggle.
 The analysis covers:
@@ -14,6 +14,7 @@ Development indicators (HDI)
 All data processing, transformation, and visualization were done in Python using Google Colab.
 
 📊 Dataset Details
+
 1️⃣ Raw Data – raw_data.csv
 Contains the original COVID-19 dataset with unprocessed country-level statistics, economic indicators, and government response measures.
 
@@ -112,9 +113,7 @@ CSV Data Processing → Loading, cleaning, transforming datasets
 
 🚀 How to Run the Project
 1️⃣ Clone the Repository
-bash
-Copy
-Edit
+
 git clone https://github.com/Kishan-Analyst/Covid_19_Impact_Analysis.git
 cd Covid_19_Impact_Analysis
 2️⃣ Open the Notebook in Google Colab
