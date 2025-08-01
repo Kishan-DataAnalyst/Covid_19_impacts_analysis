@@ -114,7 +114,7 @@ CSV Data Processing → Loading, cleaning, transforming datasets
 🚀 How to Run the Project
 1️⃣ Clone the Repository
 
-git clone https://github.com/Kishan-Analyst/Covid_19_Impact_Analysis.git
+git clone https://github.com/Kishan-DataAnalyst/Covid_19_impact_analysis.git
 cd Covid_19_Impact_Analysis
 2️⃣ Open the Notebook in Google Colab
 Go to Google Colab
